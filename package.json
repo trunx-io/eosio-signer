@@ -1,0 +1,22 @@
+{
+  "name": "@trunx-io/eosio-signer",
+  "version": "1.0.1",
+  "description": "TrunxIO signing module for EOSIO",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trunx-IO/eosio-signer.git"
+  },
+  "author": "Andrew Chaney (@netuoso)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trunx-IO/eosio-signer/issues"
+  },
+  "homepage": "https://github.com/Trunx-IO/eosio-signer#readme",
+  "dependencies": {
+    "eosjs": "^22.0.0",
+    "eosjs-ecc": "^4.0.7",
+    "node-fetch": "^2.6.6",
+    "zlib": "^1.0.5"
+  }
+}
